@@ -1,4 +1,5 @@
 import React from "react"
+import "./Head.css"
 
 const Head = () => {
   return (
@@ -6,8 +7,8 @@ const Head = () => {
       <section className='head'>
         <div className='container flexSB'>
           <div className='logo'>
-            <h1>ACADEMIA</h1>
-            <span>ONLINE EDUCATION & LEARNING</span>
+            <h1 className = "peekaboo">PEEKABOO</h1>
+            <span>ONLINE LEARNING & PLAY</span>
           </div>
 
           <div className='social'>

@@ -1,6 +1,6 @@
 import React from "react"
 import { awrapper } from "../../dummydata"
-
+import "./Awrapper.css"
 const Awrapper = () => {
   return (
     <>

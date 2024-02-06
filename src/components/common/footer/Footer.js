@@ -8,7 +8,7 @@ const Footer = () => {
       <section className='newletter'>
         <div className='container flexSB'>
           <div className='left row'>
-            <h1>Newsletter - Stay tune and get the latest update</h1>
+            <h1>Contact To Us- Stay tune and get the latest update</h1>
             <span>Far far away, behind the word mountains</span>
           </div>
           <div className='right row'>
@@ -20,9 +20,9 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ACADEMIA</h1>
+            <h1>PEEKABOO</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>“It’s a fact that online learning is the future and will undoubtedly replace land-based learning in the future.” – Forbes</p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>
@@ -78,11 +78,11 @@ const Footer = () => {
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                +91 987589384
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                peekaboo.com
               </li>
             </ul>
           </div>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
+        
         </p>
       </div>
     </>

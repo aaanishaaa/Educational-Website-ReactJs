@@ -1,7 +1,7 @@
 /*--------head------------*/
 .head {
   padding: 20px 0;
-  color: #fff;
+  color: #00525d;
 }
 .logo h1 {
   font-size: 35px;
@@ -26,7 +26,7 @@ header ul {
   padding: 30px 20px;
 }
 header ul li a {
-  color: #fff;
+  color: #003444;
   font-weight: 500;
   transition: 0.5s;
 }
@@ -36,7 +36,7 @@ header ul li a:hover {
 .start {
   background-color: #1eb2a6;
   padding: 30px 70px;
-  color: #fff;
+  color: #003444;
   clip-path: polygon(10% 0%, 100% 0, 100% 100%, 0% 100%);
 }
 .toggle {
@@ -60,8 +60,8 @@ header ul li a:hover {
   }
   .toggle {
     display: block;
-    background: none;
-    color: #fff;
+    background: #1eb2a6;
+    color: #004153;
     font-size: 30px;
     position: absolute;
     right: 0;
@@ -74,4 +74,7 @@ header ul li a:hover {
     width: 100%;
     background-color: #1eb2a6;
   }
+}
+.timer{
+  background-color:#1eb2a6 ;
 }

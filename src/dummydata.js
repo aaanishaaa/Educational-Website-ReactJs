@@ -2,19 +2,19 @@ export const homeAbout = [
   {
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Online Courses",
+    title: "Online Quizzes",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
+    title: "Draw and Play",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-    title: "Learn with Expert",
+    title: "Learn World Map",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
 ]
@@ -27,18 +27,18 @@ export const awrapper = [
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
-    title: "TRUSTED TUTORS",
+    data: "3200",
+    title: "PARENTAL SATISFACTION",
   },
   {
     cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
-    data: "1,000",
-    title: "SCHEDULES",
+    data: "1000",
+    title: "PLAYGROUND LOBBIES",
   },
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
     data: "587",
-    title: "COURSES",
+    title: "OBJECT DETECTION",
   },
 ]
 export const coursesCard = [
@@ -339,8 +339,8 @@ export const blog = [
     type: "admin",
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Radiant Moments of Motherhood: Embracing Joy in Every Hug",
+    desc: "As a mom, witnessing my child blossom into a curious, compassionate soul brings uncontainable happiness. Thanks to the support of AI-powered EdTech, each learning moment becomes an adventure. From adaptive quizzes to world map exploration, it's a joy-filled journey watching my 12-year-old grow, learn, and flourish. ",
     cover: "../images/blog/b1.webp",
   },
   {
@@ -348,8 +348,8 @@ export const blog = [
     type: "admin",
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Dad's Corner: Nurturing Little Minds with AI Magic",
+    desc: "Being a dad to a vibrant 6-year-old is a joy beyond words. Thanks to an innovative EdTech platform, our days are filled with laughter and learning. The adaptive quizzes cater to her curiosity, and world map adventures turn geography into a thrilling expedition. Watching her grow with each AI-guided discovery is a privilege I cherish.",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -357,8 +357,8 @@ export const blog = [
     type: "user",
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    title: "Siblings' Corner: Adventures in Learning with AI!",
+    desc: "Being a big brother to a spirited 10-year-old is a journey of endless discovery. Our family has found a perfect ally in an AI-powered EdTech platform. The adaptive quizzes keep her engaged, and world map learning transforms geography into a captivating exploration. Witnessing her growth through the lens of technology is truly remarkable.",
     cover: "../images/blog/b3.webp",
   },
   {
